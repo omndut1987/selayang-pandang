@@ -1,0 +1,2 @@
+sebuah aplikasi yang menunjang kinerja semua UMKM , yaitu sebuah aplikasi kasir POS dan Kasir FNB
+dengan platform berbasis website berbahasa pemrograman PHP OOP 
